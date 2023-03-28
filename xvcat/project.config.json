@@ -112,12 +112,6 @@
           "scene": null
         },
         {
-          "name": "开发团队",
-          "pathName": "pages/info/devTeam/devTeam",
-          "query": "",
-          "scene": null
-        },
-        {
           "name": "科普分类",
           "pathName": "pages/science/sciDetail/sciDetail",
           "query": "cate=1",
@@ -174,6 +168,6 @@
     "include": []
   },
   "appid": "wxf3f56082bc39515a",
-  "projectname": "zhongdamaopu",
+  "projectname": "",
   "libVersion": "2.24.7"
 }
